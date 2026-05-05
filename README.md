@@ -1,17 +1,17 @@
 <!-- Header -->
 <div align="center">
 
-# Nikhil T Das `// stem educator`
+# Nikhil T Das `// Maker`
 
 **Building curious minds at Hownwhy Education, Bangalore.**
-Hardware maker · Early childhood STEM · Street-smart polymaths.
+Hardware maker · Early childhood STEM · Building things Matters.
 
-![Location](https://img.shields.io/badge/📍_Bangalore,_IN-E1F5EE?style=flat&labelColor=E1F5EE&color=0F6E56)
+![Location](https://img.shields.io/badge/📍_Kerala,_IN-E1F5EE?style=flat&labelColor=E1F5EE&color=0F6E56)
 ![Org](https://img.shields.io/badge/🏫_Hownwhy_Education-E6F1FB?style=flat&color=185FA5)
 ![Maker](https://img.shields.io/badge/⚡_Maker-FAEEDA?style=flat&color=854F0B)
 ![Education](https://img.shields.io/badge/🎓_MCA_·_Kristu_Jyoti-EEEDFE?style=flat&color=534AB7)
 
-🟢 **Currently:** Designing hands-on STEM curricula for ages 3–8
+🟢 **Currently:** Designing hands-on STEM curriculum for ages 3–8
 
 </div>
 
@@ -41,7 +41,7 @@ making/     creative-tech/   STEM/
 
 | 🎯 Age Range | 📅 Yrs in Edu | 🔧 Prototypes | 🚀 Mission |
 |:---:|:---:|:---:|:---:|
-| **3 – 8** | **2+** | **∞** | **1 big one** |
+| **4 – 15** | **2+** | **∞** | **1 big one** |
 
 </div>
 
@@ -66,7 +66,7 @@ making/     creative-tech/   STEM/
 <tr>
 <td width="50%">
 
-### 🧠 `street-smart-polymath`
+### 🧠 `Public Toilet Monitor`
 ![curriculum](https://img.shields.io/badge/curriculum-E1F5EE?style=flat&color=0F6E56)
 
 STEM program framework for nurturing adaptable, cross-domain thinkers in early childhood.
@@ -76,10 +76,10 @@ STEM program framework for nurturing adaptable, cross-domain thinkers in early c
 </td>
 <td width="50%">
 
-### ⚡ `classroom-circuits`
+### ⚡ `Hydration Monitor Detection`
 ![hardware](https://img.shields.io/badge/hardware-FAEEDA?style=flat&color=854F0B)
 
-Safe, kid-friendly electronics kits and lesson plans for kindergarteners.
+A Smart Water Bottle Alert System for gym users is basically an IoT device that reminds people to stay hydrated during workouts. The bottle can track water intake and send alerts when the user hasn’t drunk water for a certain period..
 
 `Arduino` `sensors` `craft`
 
