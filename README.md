@@ -67,7 +67,7 @@ making/     creative-tech/   STEM/
 <td width="50%">
 
 ### 🧠 `Public Toilet Monitor`
-![curriculum](https://img.shields.io/badge/curriculum-E1F5EE?style=flat&color=0F6E56)
+![IOT Solution](https://img.shields.io/badge/curriculum-E1F5EE?style=flat&color=0F6E56)
 
 STEM program framework for nurturing adaptable, cross-domain thinkers in early childhood.
 
@@ -77,7 +77,7 @@ STEM program framework for nurturing adaptable, cross-domain thinkers in early c
 <td width="50%">
 
 ### ⚡ `Hydration Monitor Detection`
-![hardware](https://img.shields.io/badge/hardware-FAEEDA?style=flat&color=854F0B)
+![Consumable Product](https://img.shields.io/badge/hardware-FAEEDA?style=flat&color=854F0B)
 
 A Smart Water Bottle Alert System for gym users is basically an IoT device that reminds people to stay hydrated during workouts. The bottle can track water intake and send alerts when the user hasn’t drunk water for a certain period..
 
