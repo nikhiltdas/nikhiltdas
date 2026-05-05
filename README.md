@@ -114,8 +114,8 @@ Activity templates with deliberate failure points and peer dynamics built in.
 ## 📬 Connect
 
 [![Email](https://img.shields.io/badge/Email-say_hello-0F6E56?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhiltdas@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhiltdas)
-[![Hownwhy](https://img.shields.io/badge/Hownwhy_Education-visit-854F0B?style=for-the-badge)](https://hownwhy.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nikhiltdas](https://www.linkedin.com/in/nikhil-das-9404ab1a4/))
+
 
 ---
 
