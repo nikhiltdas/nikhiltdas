@@ -67,7 +67,7 @@ making/     creative-tech/   STEM/
 <td width="50%">
 
 ### 🧠 `Public Toilet Monitor`
-![IOT Solution](https://img.shields.io/badge/curriculum-E1F5EE?style=flat&color=0F6E56)
+![IOT Solution](https://img.shields.io/badge/IOT SOLUTION-E1F5EE?style=flat&color=0F6E56)
 
 STEM program framework for nurturing adaptable, cross-domain thinkers in early childhood.
 
