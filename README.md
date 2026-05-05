@@ -79,7 +79,7 @@ STEM program framework for nurturing adaptable, cross-domain thinkers in early c
 ### ⚡ `Hydration Monitor Detection`
 ![Consumable Product](https://img.shields.io/badge/hardware-FAEEDA?style=flat&color=854F0B)
 
-A Smart Water Bottle Alert System for gym users is basically an IoT device that reminds people to stay hydrated during workouts. The bottle can track water intake and send alerts when the user hasn’t drunk water for a certain period..
+A Smart Water Bottle Alert System for gym users is basically an IoT device that reminds people to stay hydrated during workouts.
 
 `Arduino` `sensors` `craft`
 
