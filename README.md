@@ -7,7 +7,7 @@
 Hardware maker · Early childhood STEM · Building things Matters.
 
 ![Location](https://img.shields.io/badge/📍_Kerala,_IN-E1F5EE?style=flat&labelColor=E1F5EE&color=0F6E56)
-![Org](https://img.shields.io/badge/🏫_Hownwhy_Education-E6F1FB?style=flat&color=185FA5)
+![Org](https://img.shields.io/badge/🏫_Circuitbay-E6F1FB?style=flat&color=185FA5)
 ![Maker](https://img.shields.io/badge/⚡_Maker-FAEEDA?style=flat&color=854F0B)
 
 🟢 **Currently:** Designing hands-on STEM curriculum for ages 3–8
